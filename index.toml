@@ -161,6 +161,11 @@ hash = "557361b486bf7c1f7f8e170218c09b38fd21d09236221e244fab11fe74303b80"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "7d160f2096db6f3530dd5d35719b5362e8f3c0e2ac13d1f2412221d1a762f40f"
 metafile = true
@@ -293,11 +298,6 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
-metafile = true
-
-[[files]]
-file = "mods/notebook.pw.toml"
-hash = "94936c12b163f37cf285f98153132f8183d8347a480fe53ad23904897658b387"
 metafile = true
 
 [[files]]
