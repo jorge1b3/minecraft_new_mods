@@ -1,0 +1,13 @@
+name = "Display Case"
+filename = "Display Case-quilt-1.20-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cSIsh4gX/versions/dx4slfcO/Display%20Case-quilt-1.20-1.0.4.jar"
+hash-format = "sha1"
+hash = "7fa120183f7317ece8b63c91075014ad12556343"
+
+[update]
+[update.modrinth]
+mod-id = "cSIsh4gX"
+version = "dx4slfcO"

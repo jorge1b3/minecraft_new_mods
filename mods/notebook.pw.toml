@@ -1,0 +1,13 @@
+name = "Vanilla Notebook "
+filename = "Notebook-3.0.0+1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KaKEuH9Q/versions/OmbC2YpG/Notebook-3.0.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "4628a5fcc873453111e3d0c801e2fd6ec1fab571"
+
+[update]
+[update.modrinth]
+mod-id = "KaKEuH9Q"
+version = "OmbC2YpG"

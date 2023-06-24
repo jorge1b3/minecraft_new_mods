@@ -1,0 +1,16 @@
+name = "skyblock"
+author = "Jorge"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fed01a7a4106498e2c4cab69f36014a1ae48d9946e3e5d8b0390b02241785092"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.19.1"
+
+[options]
+acceptable-game-versions = ["1.20", "1.20.0", "1.20.1"]
