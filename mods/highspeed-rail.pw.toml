@@ -1,0 +1,13 @@
+name = "High-Speed Rail"
+filename = "highspeed-rail-0.3.0+1.20.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d7PCSOkD/versions/NQ9wedmU/highspeed-rail-0.3.0%2B1.20.0.jar"
+hash-format = "sha1"
+hash = "55bfffd665b09900e04666535049b89536918b92"
+
+[update]
+[update.modrinth]
+mod-id = "d7PCSOkD"
+version = "NQ9wedmU"
