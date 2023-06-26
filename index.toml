@@ -231,6 +231,11 @@ hash = "2f65e35cd121966a40155af1317b3b5bfd4114240dfcc02bd75d8c8c65c59d52"
 metafile = true
 
 [[files]]
+file = "mods/gloppers.pw.toml"
+hash = "7a38c71edd4bae52e3d6928623e9e78d7b8e68cf6cc7e9113e653411ecea4dd6"
+metafile = true
+
+[[files]]
 file = "mods/grass-seeds.pw.toml"
 hash = "0c3b9a5741d2d9a11a0fe193af230f76604b6284f0d55b816d769f8c3984a169"
 metafile = true
@@ -336,6 +341,11 @@ hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
 
 [[files]]
+file = "mods/minihud.pw.toml"
+hash = "1bdf87c5dd44a752e0fa20ba3b42eb2671d3271c20da595115ae9b7ca63b1ada"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6c417b19bc836d7c516be0097261c49cf1a167951bb4744ec0f3cc0bd0d1d24a"
 metafile = true
@@ -426,6 +436,11 @@ hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
 
 [[files]]
+file = "mods/servux.pw.toml"
+hash = "b378993f11ce74c728034bdd03d8b5de3795746a4ab9c0743ade4a7eefe99d93"
+metafile = true
+
+[[files]]
 file = "mods/simple-copper-pipes.pw.toml"
 hash = "692209a11bd8e2c9ab7142872f9fa4fcae11ea959a08468b311ff869f51d8ca9"
 metafile = true
@@ -493,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/syncmatica.pw.toml"
 hash = "bb6fedf68c85d332e6a584c8036ac986fc8f63db48d0a5648731ab40cd76059f"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
