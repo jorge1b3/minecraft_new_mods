@@ -3,11 +3,11 @@ filename = "armor-statues-companion-1.2.0+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UE4M9RbW/versions/RWyIfXx3/armor-statues-companion-1.2.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/UE4M9RbW/versions/ND7vCqdO/armor-statues-companion-1.2.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "a2127f8a266e442c4129ce0030893b6a36fa107f"
+hash = "102504b9c0dfda174cfc3d7e5c7d36559a8ede89"
 
 [update]
 [update.modrinth]
 mod-id = "UE4M9RbW"
-version = "RWyIfXx3"
+version = "ND7vCqdO"

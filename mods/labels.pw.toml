@@ -1,13 +1,13 @@
 name = "Storage Labels"
-filename = "labels-1.20-1.12-fabric.jar"
+filename = "labels-1.20-1.13-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/x6r7yhfi/versions/XfrqnXeP/labels-1.20-1.12-fabric.jar"
+url = "https://cdn.modrinth.com/data/x6r7yhfi/versions/zuh7DSlU/labels-1.20-1.13-fabric.jar"
 hash-format = "sha1"
-hash = "3a3132ac98661481d507f5e2590583a67821b982"
+hash = "52d474a971d5a66ac513158bdb8aab2a4bfb2724"
 
 [update]
 [update.modrinth]
 mod-id = "x6r7yhfi"
-version = "XfrqnXeP"
+version = "zuh7DSlU"
