@@ -66,7 +66,7 @@ hash = "548000c9220ed157f39cf9492d6844a7c3bd727ef9cbb39d2ba7b2ebd99a4ce1"
 
 [[files]]
 file = "config/fallingtree.json"
-hash = "865083aab316dd62e277968b2c5e6a529c3ff6c647a8ff12f29cbd29615887af"
+hash = "80d0438c82dc7ea21d62f9be9aabd43613fc3347992cc0a3879b2f0ce0c00c63"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -481,11 +481,6 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
-file = "mods/labelling-containers.pw.toml"
-hash = "d6f6925800a9fc91067eb8cbdd974e24f2f1f8ca06d7a133119bd9e8e2ce6972"
-metafile = true
-
-[[files]]
 file = "mods/labels.pw.toml"
 hash = "5e3b3bd3e647f04049f83f42833b7d1ddae291b4e3a169012188288702b44e54"
 metafile = true
@@ -673,11 +668,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
-metafile = true
-
-[[files]]
-file = "mods/sort.pw.toml"
-hash = "42952d279cff2b03fc4f326f2c21f9035d99b2fc57cb5ac1f5ae5dd75885124e"
 metafile = true
 
 [[files]]
