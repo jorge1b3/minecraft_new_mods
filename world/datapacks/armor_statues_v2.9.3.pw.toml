@@ -4,6 +4,5 @@ side = "server"
 
 [download]
 url = "https://raw.githubusercontent.com/jorge1b3/skyblock_mods/main/world/datapacks/armor_statues_v2.9.3.zip"
-
-hast-format = "sha256"
-hast = "bb41ec2fd54a4f54c4be0634a15c91fca3c62b4d5bc54eacf07809130201ef67"
+hash-format = "sha256"
+hash = "bb41ec2fd54a4f54c4be0634a15c91fca3c62b4d5bc54eacf07809130201ef67"

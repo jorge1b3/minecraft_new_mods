@@ -776,6 +776,11 @@ hash = "e02f402b5a4aafcce65bc02d23ec4b4792db05c8de0bb8c88dbcbd503af0eab8"
 metafile = true
 
 [[files]]
+file = "world/datapacks/SkyblockDatapack_4.12.pw.toml"
+hash = "75e5bf26f62405cf4a1d11c20caecc3747e82851ef77cfcf92ebaf5add582fa1"
+metafile = true
+
+[[files]]
 file = "world/datapacks/armor_statues_v2.9.3.pw.toml"
-hash = "f01a50b3edf44bdaf6db60bcd841196fd03bf3ada741ff6fd0a3388e3e5a1837"
+hash = "e9bb8036c34cc464d0266e796b2753ec15fb71a5e79f5de8503f113771618062"
 metafile = true
