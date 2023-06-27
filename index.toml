@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/distinguished-potions.pw.toml"
-hash = "342308b7a72000a15b7a4d01a5850cbbb452be9e4d0736c131358531bee86a76"
+hash = "19ecbfd7f437ad478ded73d4da1cf480c4b29c85842a025d7b137c3893ec34f8"
 metafile = true
 
 [[files]]
@@ -822,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/visual-overhaul.pw.toml"
-hash = "bd9d3111394cb2e56baf1059c192a5dd79252c6da7b59cd73933fe69fafd806a"
+hash = "1d06636cb38c0f91cfd8e94872f19b3f4f80578d69b8046897327e24349f40f9"
 metafile = true
 
 [[files]]
@@ -863,4 +863,9 @@ metafile = true
 [[files]]
 file = "world/datapacks/armor_statues_v2.9.3.pw.toml"
 hash = "e9bb8036c34cc464d0266e796b2753ec15fb71a5e79f5de8503f113771618062"
+metafile = true
+
+[[files]]
+file = "world/datapacks/recipes_pack.pw.toml"
+hash = "ddea3de9a80fcf284cdcfd4d73647c2fe34fae45cac9ef9098067964129d79bc"
 metafile = true
