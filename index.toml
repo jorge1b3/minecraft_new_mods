@@ -1,6 +1,206 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Adorn.json5"
+hash = "0b7ecdfb582cf65429b264de1d77ce9078595f2b4db96be86de1eb992135daed"
+
+[[files]]
+file = "config/BBOutlineReloaded.cfg"
+hash = "3225e3a04c16aab5cb94808442de6e92110e5515813480bf1e08b293ed3a3c21"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/areas.json5"
+hash = "55aa4e69109598219f5b0d6d88ad9edce4ffff5733f2ce243efcdcc4c26196db"
+
+[[files]]
+file = "config/axesareweapons.json5"
+hash = "0ea72f5750b1ae0860f78e450f06a55c2233e88a442edc7b6b84266ea868326f"
+
+[[files]]
+file = "config/bettertrims.json"
+hash = "7224752a09d68f1cc1c04f490656040321d76ce9bf538c904183aa7d15b9f627"
+
+[[files]]
+file = "config/bottledair.json5"
+hash = "db99e7e657ff65c7930cdc852286d508e50fa99b33b6864dea7755c8bc691d9e"
+
+[[files]]
+file = "config/bottleyourxp.json5"
+hash = "b3e20813f0112c995f0bf96e1fe04ce502d50b749601fcf5656ab45e58407261"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "27f9628d41f987a7d7c7063ed98cca6e2c9cb5c0ca2e87ffc8830db1b92acc3c"
+
+[[files]]
+file = "config/chicken_nerf.json"
+hash = "0ca21fca4a862c2f903bb6c6a31e105c6757aff1976397fc2623c0980db94d78"
+
+[[files]]
+file = "config/collective.json5"
+hash = "388de69b8eec0e709c43d18b9a42966ab954ace08a5cbc1fc0b8d23bd3abc339"
+
+[[files]]
+file = "config/computercraft-client.toml"
+hash = "8982ea2577c72c5e60038e934f45c9fe7f790edabb3b5ec87caa883ad951c728"
+
+[[files]]
+file = "config/copperhopper.properties"
+hash = "9e690dd8f8a614cd6351eae694fbfca2768b09aff682c4f51ddf4eaf1e3fa52c"
+
+[[files]]
+file = "config/enhancedgroups/enhancedgroups.properties"
+hash = "900ad256632de80ac7b0a2852fb07830a794afead4b03a87dfa4d8152e1f145e"
+
+[[files]]
+file = "config/fabrictailor.json"
+hash = "548000c9220ed157f39cf9492d6844a7c3bd727ef9cbb39d2ba7b2ebd99a4ce1"
+
+[[files]]
+file = "config/fallingtree.json"
+hash = "865083aab316dd62e277968b2c5e6a529c3ff6c647a8ff12f29cbd29615887af"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "config/fwaystones/config.json5"
+hash = "830265ad37ea631a02651335d67ab6b78ae57a9c12b91f6f0d17bf8e64f4965b"
+
+[[files]]
+file = "config/highspeed-rail.json5"
+hash = "61fa750096395c69acc6d51611b81e5ccd93b37fafa42f6584098cac8c4064c4"
+
+[[files]]
+file = "config/inventorymanagement.toml"
+hash = "b62983eeff42e623f4a16012ad42ab230281297e3ff7a0e942cb70de539063f0"
+
+[[files]]
+file = "config/itemswapper.json"
+hash = "a5d1ed60ef1e97d5060a7fbdb6815859d438555ed0f0ccaf0f177a945a070471"
+
+[[files]]
+file = "config/jade/server-plugin-overrides.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "d989903b7457551bacc2b75061e70f97b2f891df9a1f53f5e2693dbc57197652"
+
+[[files]]
+file = "config/jade/usernamecache.json"
+hash = "09f286b62385174a34d2f7a8eba0f04df6f9f03c13d799293b80292fabcc0e44"
+
+[[files]]
+file = "config/linkart.json"
+hash = "fa92c5b83cd11e2d848a3b20877c6217e6cef68309bc37c755c0b41b24405d7c"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/map_atlases.json5"
+hash = "69c64c626c9c3a628b71897b6dc854182f7a15391599f90b3a204acd0056d1b7"
+
+[[files]]
+file = "config/plethora.hocon"
+hash = "8cb5f758aa30354d010ad6fb7fa317783cbc0db95bad796f9c1c6e4b9e2ce987"
+
+[[files]]
+file = "config/quilt-loader.txt"
+hash = "3190f8549ea5c7301ed693308eb406ccd02deaf9c90dc129d941ff15a6d65f84"
+
+[[files]]
+file = "config/quilt/qsl/registry.toml"
+hash = "1a18dacc6cb807c3e2591482225d05f729e9e40872bdfacae4c439d9b43da842"
+
+[[files]]
+file = "config/rightclickharvest.json"
+hash = "56ef07ea78079bbd2e452724718d9816f1d69a4ddb4a111aaf6752cf6e9d5032"
+
+[[files]]
+file = "config/sleepwarp-server.json"
+hash = "e927b341a021a880e24cf667190f0921d38ad8ec001ebf501f52662e859013f4"
+
+[[files]]
+file = "config/snowballsfreezemobs.json5"
+hash = "8346df4d0d6ad5be707747657839a4e5dc3c4facc968468404a4727dfb448e41"
+
+[[files]]
+file = "config/snowundertrees.json5"
+hash = "d60bdb5fd34a8a8e718547da35a20f66e9be95082001342a254fb8c6e99c1e60"
+
+[[files]]
+file = "config/sound_physics_remastered/allowed_sounds.properties"
+hash = "695c146d1f5693faf4817f5f8f52d14b958907f934989819ee4775944027bac0"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "e2b71da87a22c3b4de803fdccad7e167f13c2cc996a1505ebbc3dc7cb72b2edc"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "578e6882338e61cb97886284a756e83887c6e5501becfb9a9484e628ac3ea4bf"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "2a39b23e57e95e7d026e469fd01ed954773cc6c19f4c1e3b8d1c3ccbaf6afaae"
+
+[[files]]
+file = "config/staaaaaaaaaaaack-common.json5"
+hash = "9236ef3c1f6d6b5c2084313cb6c35f409a3cc7405c28d586d09884d5d3ce7d11"
+
+[[files]]
+file = "config/stackables.toml"
+hash = "8c0ea7e8507e93df00dcdc83a5dcff8aa79e6cec48d905c0a31819d4e80a30e4"
+
+[[files]]
+file = "config/switchcraft/sc-peripherals.toml"
+hash = "d4dda9a191244576e3528342fed97a9d0cde280b69bd29b8615948def74a9b29"
+
+[[files]]
+file = "config/syncmatica/config.json"
+hash = "fbaa3ffce9ba8fe6cca396691b58cb6bbcb917e8035dfdf8da2a08f90059644e"
+
+[[files]]
+file = "config/travelersbackpack.json5"
+hash = "2432c6532fcf2f3fbc7427ef65c552ce1cfc8e7b00c2aa74a267fdeb89d77a5a"
+
+[[files]]
+file = "config/vcinteraction/vcinteraction.properties"
+hash = "d71f70dfa0530ffd6f3d76f7441fd1f2a55cb601cc34c04f7af2f2e1dacc5bcf"
+
+[[files]]
+file = "config/villagerdeathmessages.json5"
+hash = "729dde8857c01cd4463a1596e949e9a24dd2a94d1a4572a60e586d3ff7a05d39"
+
+[[files]]
+file = "config/villagernames.json5"
+hash = "3177d2e745007800c60ee0629dd024cd10ee8803c35222edcde743ede9afac20"
+
+[[files]]
+file = "config/villagernames/customnames.txt"
+hash = "fb466df546980302c12aae76865834d8cf44a3b439514af25950b72ae94bd043"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "6a521191220fe44d145da9a855fed277d9a19f4c09165425e64a2c7a03758ebb"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "767db2b156181999e8afcdb56e48afeeaafbe71b6636e152caf05aedbb342368"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "cacfa864fbcef1fe67e225eec84733b86c130d2cc218c9a492c10e7f332a33f5"
 metafile = true
@@ -576,5 +776,6 @@ hash = "e02f402b5a4aafcce65bc02d23ec4b4792db05c8de0bb8c88dbcbd503af0eab8"
 metafile = true
 
 [[files]]
-file = "world/datapacks/armor_statues_v2.9.3.zip"
-hash = "bb41ec2fd54a4f54c4be0634a15c91fca3c62b4d5bc54eacf07809130201ef67"
+file = "world/datapacks/armor_statues_v2.9.3.pw.toml"
+hash = "f01a50b3edf44bdaf6db60bcd841196fd03bf3ada741ff6fd0a3388e3e5a1837"
+metafile = true
