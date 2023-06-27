@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/rI0hvYcd/versions/BipSJ05N/visuality-0.7.0%
 hash-format = "sha1"
 hash = "20b7510b37d920890835b5e79b56204367799259"
 
+[option]
+optional = true
+default = false
+description = "Agrega varias partículas al juego"
+
 [update]
 [update.modrinth]
 mod-id = "rI0hvYcd"

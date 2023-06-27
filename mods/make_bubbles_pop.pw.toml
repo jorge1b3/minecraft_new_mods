@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/gPCdW0Wr/versions/2IJkjOwA/make_bubbles_pop
 hash-format = "sha1"
 hash = "e23ae6e67acd6793dd406120e610916a8f3edec1"
 
+[option]
+optional = true
+default = false
+description = "Mejora la física de las burbujas en minecraft"
+
 [update]
 [update.modrinth]
 mod-id = "gPCdW0Wr"

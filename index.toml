@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-statues-companion.pw.toml"
-hash = "0100dc40cb2a8ce53c8fd3eabd18d4965687d59f546481b00ac647bfff1887e1"
+hash = "54c93414451692b61d94a89357d3ff7274793d54e9edb5b4ca2deb01e7ad7278"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "86ce47da34b9a69c105e4e22058a5d6fc12448283a54a1f911c16351f096068e"
+hash = "2953cfb39fd534345fe13583851e4ba86e2a929d03af2f3f595c56c01f540c8f"
 metafile = true
 
 [[files]]
@@ -116,6 +116,11 @@ hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
 
 [[files]]
+file = "mods/cauldron-dyeing.pw.toml"
+hash = "9e8fb1918195f62df1b5abb442cea359eabe030be424dd01a13401cef60849d2"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "e819abd2676629470c59e40cef7a38eac22fe0f46e80efd8cf3456decf71abf0"
 metafile = true
@@ -142,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "8e73f68cbcbff53b6a00c30f371fc34a63c2ac2240af4792008d67dce74fb507"
+hash = "08506c7ab96f956db071319ab62c3c051959b0534031a592d414482787c0cfbf"
 metafile = true
 
 [[files]]
@@ -162,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/dripsounds-fabric.pw.toml"
-hash = "6992619452254eac894dbaaaff722c4dfa3d3576405f1b3c4d9782fe98aaf7e1"
+hash = "a5d5cf29575b9af59265eebce6a2e46512cc7c0f71b1d9ce554e9caafde87833"
 metafile = true
 
 [[files]]
@@ -177,12 +182,12 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation.pw.toml"
-hash = "13a1357c0e5f6a3bd2978c80c405909b0654079a3f29d8f02fdc30f985f17f9b"
+hash = "07321f5169748025e0a080a3e35f24d3de48f2cde24778794252ed2501795cd1"
 metafile = true
 
 [[files]]
 file = "mods/enhanced-groups.pw.toml"
-hash = "7b254fbbdb60ec50e5840a102bd16846fa4c9b2633886f82d1c6cf4b90f98786"
+hash = "0a67531fe45c18312c08f220868f714a4689df088ebaf269aa4f97aa32139716"
 metafile = true
 
 [[files]]
@@ -202,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "7d160f2096db6f3530dd5d35719b5362e8f3c0e2ac13d1f2412221d1a762f40f"
+hash = "42348a774f2d3fef81911a61cbb795ed2556bc223b07de13edaf2af53e768eb1"
 metafile = true
 
 [[files]]
@@ -222,17 +227,12 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "d615e6cbf494aaeed1a2fb71cb8c8f0e261d8e1698298fec8e6f834b461daf39"
+hash = "ed9774447bf59de9cbcff67d4ed9976bd3125eeee308742bbeb54aeb4327c14f"
 metafile = true
 
 [[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "2f65e35cd121966a40155af1317b3b5bfd4114240dfcc02bd75d8c8c65c59d52"
-metafile = true
-
-[[files]]
-file = "mods/gloppers.pw.toml"
-hash = "bac5666aac1b420d730eb2b76924ebf963bd68ec7ca552b7d5de0ca97fc50360"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "79b5821cecd73ba5167a6b152c78df308b1208e9f2c27885a6bde69910b1310f"
+hash = "97579a3aeb2d23b04d85d1ee73c98c388ecb918886cc9436bd60e089b4900185"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "849549f8e5590a794eaf1e4e848d25f9f38c1f7e51b0f1eba6178870c11628d7"
+hash = "abd9ae547dc1f27c3f785f3143fe872a77d96319f31c801ac25d25ecf638fac1"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
-hash = "40174cb777a6d12ba73a4caa5bbf961fc89785413bb78369101624c635b4c378"
+hash = "e82a816dd2ac20ff00c781b0814fbe55fdadf318e3f1508e0b531e1bfe9fe055"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "1bdf87c5dd44a752e0fa20ba3b42eb2671d3271c20da595115ae9b7ca63b1ada"
+hash = "8596025c6fa3ccc6e1467cad502d313f8897e0fbb879eb72bd634e9fe76a84bd"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+hash = "6139fc097f45b753d7f8787e7d41ec1259937e3c53a9e70327f39d671a050b27"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "733deb9f58853fc07c5704498fdfe7d8c5fe673d70771112f46b930ff87a974c"
+hash = "5d73459fd35e329486e4c3894a936f15b2c894bda3b58685614d29b783b40f5b"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "9e7c1e6cf3b81dce5a77bf5c95ed9d8e9b936b932aeadb1255245234230ced16"
+hash = "291da759dd1915374b93990ca86bddc9293e93dfceb67a9a4e46a2c3faf9f399"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+hash = "c6401ae99111b5c87b88ed83e62cba335fc51340ba24e19bad557afe5b039219"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "f013995011fd15f45fc2bbd28a63f70542008891a6dcfd7a955a2ab3e248460d"
+hash = "0e3bbea10d9ec690529930ab4273768bff6766d1f7bdf361fde2a744275b09a9"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
-hash = "4fb915d2bc266c1ed7a0dce77e3da295305c5dbec7a7ae1d142b3abf621be309"
+hash = "ee59ee6c3bc158eadce70df3e518dad69579402c8030b4fa1533232464cdcec1"
 metafile = true
 
 [[files]]
@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "b015f1f1bd558c30c74e2bc5707e52de1cde557824bd8ce85eddcafa14a3da3a"
+hash = "c4d2f5daba7e40429c3e14b3abe6cc6b13133ceec8a3e559759816e662ce6536"
 metafile = true
 
 [[files]]
@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "9b3fd0e07219491269f7977d4b42c3c4c9769f1c99cf1531e612265157ed7071"
+hash = "471dd6b7ccf7daffcbffca8355e4772989f6270f4ee08ebc343c886f2242aed5"
 metafile = true
 
 [[files]]
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
+hash = "e02f402b5a4aafcce65bc02d23ec4b4792db05c8de0bb8c88dbcbd503af0eab8"
 metafile = true
 
 [[files]]

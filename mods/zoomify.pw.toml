@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/1mKrqlvv/Zoomify-2.10.0.j
 hash-format = "sha1"
 hash = "21a75350e0f2a904076d2af505a4b077b8ff6438"
 
+[option]
+optional = true
+default = true
+description = "Agrega un zoom a minecraft. La tecla predeterminada es la c"
+
 [update]
 [update.modrinth]
 mod-id = "w7ThoJFB"

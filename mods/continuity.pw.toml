@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/1IjD5062/versions/ImUFj5Gl/continuity-3.0.0
 hash-format = "sha1"
 hash = "c5157819671612384834730a877eec5c484b5cf9"
 
+[option]
+optional = true
+default = false
+description = "Agrega la opción de texturas conectadas de optifine"
+
 [update]
 [update.modrinth]
 mod-id = "1IjD5062"

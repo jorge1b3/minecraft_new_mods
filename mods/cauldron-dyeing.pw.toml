@@ -1,0 +1,13 @@
+name = "Cauldron Dyeing"
+filename = "cauldron-dyeing-1.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5AgJnN8I/versions/gaqmIiMP/cauldron-dyeing-1.0.10.jar"
+hash-format = "sha1"
+hash = "33e0730d550493d14626d41baf45d510945f8a3d"
+
+[update]
+[update.modrinth]
+mod-id = "5AgJnN8I"
+version = "gaqmIiMP"

@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/TnOXNf5e/versions/yjaKLf4J/peek-1.20.1-1.0.
 hash-format = "sha1"
 hash = "c9105bca6e0052547ac2526344bc3722c065de03"
 
+[option]
+optional = true
+default = false
+description = "Permite ver el contenido de los contenedores con NTB tags o shulkers desde el inventario"
+
 [update]
 [update.modrinth]
 mod-id = "TnOXNf5e"

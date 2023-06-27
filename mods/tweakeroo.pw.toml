@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "1b2b2f3095e680cd1a51df95fe30a6cbb6c90854"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = false
+description = "Agrega varias funciones para ayudar en la construcción"
+
 [update]
 [update.curseforge]
 file-id = 4593133

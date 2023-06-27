@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "c33e1c0a498d67d3b404d4f025340f6e8dcdc013"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Agrega la opción de importar planos a minecraft"
+
 [update]
 [update.curseforge]
 file-id = 4593296

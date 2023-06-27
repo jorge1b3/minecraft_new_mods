@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/gAP9590c/soundphysics-fab
 hash-format = "sha1"
 hash = "a17a91402d2d9f39398be01b4b995d81690478a5"
 
+[option]
+optional = true
+default = true
+description = "Cambia el motor de sonidos en minecraft"
+
 [update]
 [update.modrinth]
 mod-id = "qyVF9oeo"

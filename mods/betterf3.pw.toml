@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/8shC1gFX/versions/NwdpRyuN/BetterF3-7.0.0-F
 hash-format = "sha1"
 hash = "45729e0b259cafdffc3886e5120f887eb811f681"
 
+[option]
+optional = true
+default = false
+description = 'Cambia la interfaz de f3'
+
 [update]
 [update.modrinth]
 mod-id = "8shC1gFX"

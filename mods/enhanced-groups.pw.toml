@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/1LE7mid6/versions/2bxnqmTu/enhanced-groups-
 hash-format = "sha1"
 hash = "7dfdb08f310b3d6d3fd576afd4a10b4584915103"
 
+[option]
+optional = true
+default = true
+description = "Agrega varias opciones a simple voice chat, permitiendo hacer grupos permanentes y grupos rápidos"
+
 [update]
 [update.modrinth]
 mod-id = "1LE7mid6"

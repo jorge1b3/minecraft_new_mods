@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/CoF2ez1D/freecam-fabric-m
 hash-format = "sha1"
 hash = "b65423774d3faf18087a1b2c8092150e7d488cc1"
 
+[option]
+optional = true
+default = false
+description = "Agrega una FreeCam que permite inspeccionar alrededor sin moverse del sitio"
+
 [update]
 [update.modrinth]
 mod-id = "XeEZ3fK2"
