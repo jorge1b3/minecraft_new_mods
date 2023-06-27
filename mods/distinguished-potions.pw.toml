@@ -1,0 +1,18 @@
+name = "Distinguished Potions"
+filename = "DistinguishedPotions-v7.0.0-1.20-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lX1xTFBZ/versions/jQo0c2bM/DistinguishedPotions-v7.0.0-1.20-Fabric.jar"
+hash-format = "sha1"
+hash = "b0313cb81c22ec91a0c73f6f3324a3dbed86faca"
+
+[option]
+optional = true
+default = false
+description = "Mejora los íconos de las pociones, para hacerlos más distingibles entre si"
+
+[update]
+[update.modrinth]
+mod-id = "lX1xTFBZ"
+version = "jQo0c2bM"
