@@ -871,15 +871,6 @@ hash = "e02f402b5a4aafcce65bc02d23ec4b4792db05c8de0bb8c88dbcbd503af0eab8"
 metafile = true
 
 [[files]]
-file = "resourcepacks/FreshAnimations_v1.8.1.pw.toml"
-hash = "e26adfe165a7b55f2db7bd76c40ae97a0e3c6a3864b0c5be4ee46365ab8f2b07"
-metafile = true
-
-[[files]]
-file = "resourcepacks/FreshAnimations_v1.8.1.zip"
-hash = "b97991ba6cf33317b5e7ef092e66d2522b6848ec52bb89548bede0765d3ac8cb"
-
-[[files]]
 file = "world/datapacks/SkyblockDatapack_4.12.pw.toml"
 hash = "9ee6a4b7baf26ed97a1acc3e96a82aefa288504beaba188cd0bfeb8800e4ace3"
 metafile = true
