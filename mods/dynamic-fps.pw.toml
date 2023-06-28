@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/Usg995P0/dynamic-fps-2.4.
 hash-format = "sha1"
 hash = "8f8dc48343df6bd07aad944f4fe09f33dc737184"
 
+[option]
+optional = true
+default = true
+description = "Reduce el uso de recursos de minecraft cuando se encuentra en segundo plano"
+
 [update]
 [update.modrinth]
 mod-id = "LQ3K71Q1"

@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/SgSIhHQO/reeses_sodium_op
 hash-format = "sha1"
 hash = "ff2fb322da5ca3edc25b55234e0f883797e18647"
 
+[option]
+optional = true
+default = true
+description = "Mejora el menú de opciones de sodium"
+
 [update]
 [update.modrinth]
 mod-id = "Bh37bMuy"

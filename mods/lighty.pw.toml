@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/yjvKidNM/versions/dJmR2A2T/lighty-fabric-2.
 hash-format = "sha1"
 hash = "d8cb33440223b8ab134af3775282c1aa10087dc1"
 
+[option]
+optional = true
+default = true
+description = "Permite ver los niveles de luz sobre los bloques"
+
 [update]
 [update.modrinth]
 mod-id = "yjvKidNM"

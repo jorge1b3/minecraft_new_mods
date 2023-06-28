@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/BdKIyOLe/versions/Q3Z6GESL/Boat-Item-View-F
 hash-format = "sha1"
 hash = "c71b4fa8fd4ca580f39f94f278c1864c3befca51"
 
+[option]
+optional = true
+default = true
+description = "Permite ver items mientras se está montado en un bote"
+
 [update]
 [update.modrinth]
 mod-id = "BdKIyOLe"

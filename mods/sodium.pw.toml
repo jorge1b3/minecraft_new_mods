@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc
 hash-format = "sha1"
 hash = "b11e18bb09f06c3f8028fa2c090072976fa326d0"
 
+[option]
+optional = true
+default = true
+description = "Agrega optimizaciones generales de rendimiento"
+
 [update]
 [update.modrinth]
 mod-id = "AANobbMI"

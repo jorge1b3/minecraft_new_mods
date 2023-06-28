@@ -1,0 +1,13 @@
+name = "Fresh Animations"
+filename = "FreshAnimations_v1.8.1.zip"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/jorge1b3/skyblock_mods/main/world/datapacks/FreshAnimations_v1.8.1.zip"
+hash-format = "sha256"
+hash = "b97991ba6cf33317b5e7ef092e66d2522b6848ec52bb89548bede0765d3ac8cb"
+
+[option]
+optional = true
+default = false
+description = "Resourcepack que cambia las animaciones del juego. Requiere Entity Model Features"

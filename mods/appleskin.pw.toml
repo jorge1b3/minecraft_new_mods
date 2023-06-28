@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/CxnVG86Y/appleskin-fabric
 hash-format = "sha1"
 hash = "f01bcf9adbaaeb5f6b185864c0b879e8e3923991"
 
+[option]
+optional = true
+default = true
+description = "Muestra los niveles de saturación que ofrece una comida"
+
 [update]
 [update.modrinth]
 mod-id = "EsAfCjCV"

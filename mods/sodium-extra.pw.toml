@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/kTxAMqAj/sodium-extra-0.4
 hash-format = "sha1"
 hash = "6cf2844ca0cfd0b8adb8a0d86e0c635ce0c0f4ef"
 
+[option]
+optional = true
+default = true
+description = "Agrega opciones adicionales a sodium"
+
 [update]
 [update.modrinth]
 mod-id = "PtjYWJkn"

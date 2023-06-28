@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/WTH3T2cR/indium-1.0.18%2B
 hash-format = "sha1"
 hash = "e4fe54f15bc82abdf667fc4658d3b3e7d4e02174"
 
+[option]
+optional = true
+default = true
+description = "Agrega compatibilidad entre sodium y otros mods. Solo es necesario si sodium está instalado"
+
 [update]
 [update.modrinth]
 mod-id = "Orvt0mRa"

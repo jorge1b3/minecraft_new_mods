@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/ECATbUJL/versions/6gSEwf8d/BBOutlineReloade
 hash-format = "sha1"
 hash = "4517d7bf3961acb444d5d0b6e3d5164b743d397f"
 
+[option]
+optional = true
+default = true
+description = "Permite ver las bounding boxes de minecraft, además de otra información técnica"
+
 [update]
 [update.modrinth]
 mod-id = "ECATbUJL"

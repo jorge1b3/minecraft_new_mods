@@ -1,11 +1,16 @@
 name = "Better Enchanted Books"
 filename = "better-enchanted-books-1.20-1.4.3.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/yjpXhps7/versions/lCF0kobd/better-enchanted-books-1.20-1.4.3.jar"
 hash-format = "sha1"
 hash = "7bc24df0b160cdd27b54a83181dcfbdcc4712cea"
+
+[option]
+optional = true
+default = false
+description = "Cambia la textura de los libros encantados para coincidir con el encantamiento"
 
 [update]
 [update.modrinth]

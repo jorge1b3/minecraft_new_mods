@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/zv46i3PW/modmenu-7.1.0.ja
 hash-format = "sha1"
 hash = "7d26ff2477ad8a083f11c1006a2b87ff1c121b62"
 
+[option]
+optional = true
+default = true
+description = "Agrega un menu para los mods"
+
 [update]
 [update.modrinth]
 mod-id = "mOgUt4GM"
