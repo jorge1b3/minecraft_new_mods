@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://raw.githubusercontent.com/jorge1b3/skyblock_mods/main/world/datapacks/skyblockDatapack_4.12.zip"
 hash-format = "sha256"
-hash = "81ec2bf11fa7af810cf171746d7bbe0565a1502375de958c5a84b9a24dec8254"
+hash = "84f25a5dff62f3cd509ccd3095649f1d9b22590a6b60bed459447dd35adf9c52"
