@@ -381,11 +381,6 @@ hash = "4028d036052c81421a9d0303e7ec52d1866d1be1dff348aac16655f582cd19dd"
 metafile = true
 
 [[files]]
-file = "mods/distinguished-potions.pw.toml"
-hash = "19ecbfd7f437ad478ded73d4da1cf480c4b29c85842a025d7b137c3893ec34f8"
-metafile = true
-
-[[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "a5d5cf29575b9af59265eebce6a2e46512cc7c0f71b1d9ce554e9caafde87833"
 metafile = true
