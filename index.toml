@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "a8314e340073fa3b285f10b3824743b7e48dc8dcc6619b6ed2069a02733ef60d"
+hash = "9953c058e9e07d222493c97cc94fdf318f05260a60efdf927aca6a1d1afe9738"
 metafile = true
 
 [[files]]
@@ -802,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9dae2232026213f1fd611d79795496039922a55abd662cfcbe6de23f56f88a94"
+hash = "3397d28fcdba2e16f90348da0ec2aee4829107a59fd4ea1a154a0ce38784ddf8"
 metafile = true
 
 [[files]]
@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/staaaaaaaaaaaack.pw.toml"
-hash = "1e06080cdcdca5cfc36dfd6653034b56941610d9249718491034897882fec594"
+hash = "52d738ee6c3ac6d34443850ad1d37794bc6325dcdea9a9a571236b29c9af1736"
 metafile = true
 
 [[files]]
