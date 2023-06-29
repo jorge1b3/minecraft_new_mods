@@ -1,0 +1,18 @@
+name = "Automining"
+filename = "automining_architectury-1.20_1.12.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cDUpOnxQ/versions/v7DcDZPW/automining_architectury-1.20_1.12.3.jar"
+hash-format = "sha1"
+hash = "1d267c0cb1982a235e4dd708689eacf0dfbbde6a"
+
+[option]
+optional = true
+default = true
+description = "Agrega autominado. Util para minar piedra afk en skyblock"
+
+[update]
+[update.modrinth]
+mod-id = "cDUpOnxQ"
+version = "v7DcDZPW"
