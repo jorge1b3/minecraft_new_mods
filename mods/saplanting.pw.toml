@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/Vo4uFiz0/versions/IWDfflar/saplanting-fabri
 hash-format = "sha1"
 hash = "82d36a0690a784615e6759bef3498d1b9ca0fa0f"
 
+[option]
+optional = false
+default = false
+
+
 [update]
 [update.modrinth]
 mod-id = "Vo4uFiz0"

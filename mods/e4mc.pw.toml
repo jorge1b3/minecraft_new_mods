@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/jWzkvN1j/e4mc-3.2.0%2B1.1
 hash-format = "sha1"
 hash = "601600a3977a9a60b1eb4fb293e5252467922bfa"
 
+[option]
+optional = false
+default = false
+
 [update]
 [update.modrinth]
 mod-id = "qANg5Jrr"

@@ -271,11 +271,6 @@ hash = "f46117607a255d5b506ed42347d3d732a2f48ad6047b03e723fa2096f14763ed"
 metafile = true
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "2f19d96faee56e8d2259cee0e5a6c38a72f7b4eb6feaaa6a5024d20a7cfb36f4"
-metafile = true
-
-[[files]]
 file = "mods/better-enchanted-books.pw.toml"
 hash = "d1e50502b93b6552f5128e18fb2dce4bc9df69c457301191404274f7fc8e2bba"
 metafile = true
@@ -711,11 +706,6 @@ hash = "83d251738ff2103d7105d194c9e00b1871857f133cd8ae9ae9b909260670a06d"
 metafile = true
 
 [[files]]
-file = "mods/playeranimator.pw.toml"
-hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
-metafile = true
-
-[[files]]
 file = "mods/plethora-peripherals.pw.toml"
 hash = "d55d4f4ef405dfcf826bd1c8839c651278fde68d4367cce619d197d432638d3a"
 metafile = true
@@ -743,11 +733,6 @@ metafile = true
 [[files]]
 file = "mods/rain.pw.toml"
 hash = "d3d769d3e7a1200b175f952af57670759ff2a6fd9f567bf2cf53fbb295747c8a"
-metafile = true
-
-[[files]]
-file = "mods/rebalanced-loot.pw.toml"
-hash = "349034a7eed40e63b3443cbb61ba2235fb313a992327937f60b25fbb4f4f3c51"
 metafile = true
 
 [[files]]
@@ -806,11 +791,6 @@ hash = "3397d28fcdba2e16f90348da0ec2aee4829107a59fd4ea1a154a0ce38784ddf8"
 metafile = true
 
 [[files]]
-file = "mods/sleep-warp.pw.toml"
-hash = "349da47a72082e2606a53521bc2cfb8687c31b27c99255a6f3fa60e310d530fd"
-metafile = true
-
-[[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
 hash = "3e296e373e17d6c4d9e8a914d07b841fcfa4faaefcb1ac00aafd4ac9d71e72aa"
 metafile = true
@@ -841,13 +821,8 @@ hash = "46907b32d4a846d4c14b3e17b7aa586b4e36248e84a0e98eeea5b2bfab48978a"
 metafile = true
 
 [[files]]
-file = "mods/spyglass-astronomy.pw.toml"
-hash = "f001d53c5b1aaca000c9bd3102cbcf4218d58f1849da091889d109296fb8c4e8"
-metafile = true
-
-[[files]]
 file = "mods/staaaaaaaaaaaack.pw.toml"
-hash = "52d738ee6c3ac6d34443850ad1d37794bc6325dcdea9a9a571236b29c9af1736"
+hash = "da8363af53c8c08dca0fa755c97f8d8d383266e33644d8419c1ef71add81e1d0"
 metafile = true
 
 [[files]]
