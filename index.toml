@@ -426,11 +426,6 @@ hash = "2ec71dddd6f71022aa19d7632c8c657478069c0e866ec6b9ce62f56d1847a187"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
-hash = "b03c0c9616b8e790ca01054d8be91c2d6b62b26e7c9262ec7b0a70fb07e6a7f5"
-metafile = true
-
-[[files]]
 file = "mods/easywhitelist.pw.toml"
 hash = "1a0243a12504f26462f34372d8adf7578739716bc2b004fcbba2f44a07cd85a7"
 metafile = true
@@ -753,11 +748,6 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "135bc946a52da94a866626b73e7b4ed3352aaeac1223dd08260250eb2e6cac23"
-metafile = true
-
-[[files]]
-file = "mods/saplanting.pw.toml"
-hash = "88f46c9c462a0a84f3d10a78389210d225ea9edd8f22049a9f0e7f6ad294692f"
 metafile = true
 
 [[files]]
