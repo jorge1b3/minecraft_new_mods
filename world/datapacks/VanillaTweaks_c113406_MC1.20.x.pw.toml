@@ -1,0 +1,8 @@
+name = "Recipes vanilla tweaks"
+filename = "VanillaTweaks_c113406_MC1.20.x.zip"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/jorge1b3/skyblock_mods/main/world/datapacks/VanillaTweaks_c113406_MC1.20.x.zip"
+hash-format = "sha256"
+hash = "8f1f3d9a3ca7fffe56545569a4184d402ad940f67515c5dc0bbb0eeec828ae31"

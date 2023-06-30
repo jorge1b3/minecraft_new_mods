@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/copper-hopper.pw.toml"
-hash = "523f44362f5899be6e3bd0d5bd6acbbebcc5e7a3dc9eb6ac7769c8c3dd64f673"
+hash = "71413590712a065ca605e5c689c49f79eed427434dc58a0593b9b1e1948085e8"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastback.pw.toml"
-hash = "b553036f0675bc274269e7aa8e25ed20b12b7d3f702235d564922656ebcf3dc9"
+hash = "e4914685936668b58503aa685d970fb929ee5b74dccec730a61747b6857a32b6"
 metafile = true
 
 [[files]]
@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/highspeed-rail.pw.toml"
-hash = "4c4a9dc00e5a4c4a5052450b9ae4627cac21510ae2ba9dc06a2735774e68d90d"
+hash = "95382a0c08343c4fc75f65f9da73171f16f951703a82a64b3315f472fb0b01c2"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "af854dee3a052bddd41925e2f187a77c9ac640aed1c80d47f4fc73a7476825d4"
+hash = "91d323be08b36114875fa3469564396d869ff012617bebc94250834f2e5a8f38"
 metafile = true
 
 [[files]]
@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "e41cae8b221bbd05ecd94dd60bb46976f1a790f4695e805005049c5b6fb1654f"
+hash = "023766a7e573dff70c9686e42e97e3b1ab9ac4f2fb4d9fc8b6752984c3f6e506"
 metafile = true
 
 [[files]]
@@ -887,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "6898ff36d05480013e6568b26e9bf30fdad2f0b0202f9b5ea59f94260eb56b2e"
+hash = "4c4d7a456986056c808eda873d7b3976efe957df5d937f07531baefa26b68cfa"
 metafile = true
 
 [[files]]
@@ -902,7 +902,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-refresh.pw.toml"
-hash = "e515bf2e4a31365373b9589bafbd575c7669a189a308150eec7d6ec4d3301bf2"
+hash = "13d7c3b60686686cf7f75337bdf5b36d2da7b02bf6fda97556cc00b344853b35"
 metafile = true
 
 [[files]]
@@ -953,6 +953,11 @@ metafile = true
 [[files]]
 file = "world/datapacks/SkyblockDatapack_4.12.pw.toml"
 hash = "06e5a47d30210719c287c64b5fa8f008c3b3490b51bae473723a2ea888ac5d6b"
+metafile = true
+
+[[files]]
+file = "world/datapacks/VanillaTweaks_c113406_MC1.20.x.pw.toml"
+hash = "569902cfb7b24765fd70f9e95c2e598e4f2114c99573c6299003da749f29beb4"
 metafile = true
 
 [[files]]
