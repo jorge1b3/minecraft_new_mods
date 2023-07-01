@@ -917,7 +917,7 @@ metafile = true
 
 [[files]]
 file = "world/datapacks/SkyblockDatapack_4.12.pw.toml"
-hash = "06e5a47d30210719c287c64b5fa8f008c3b3490b51bae473723a2ea888ac5d6b"
+hash = "d21affe048470f10b3ada06a4fb3330206240e600c0b25ba2ed0f7ebb7c294f9"
 metafile = true
 
 [[files]]
