@@ -476,11 +476,6 @@ hash = "42348a774f2d3fef81911a61cbb795ed2556bc223b07de13edaf2af53e768eb1"
 metafile = true
 
 [[files]]
-file = "mods/fallingtree.pw.toml"
-hash = "8a0908bb4772b63bb977fcc10c012561d0423066df18609de7c2f0c3aeb5af98"
-metafile = true
-
-[[files]]
 file = "mods/fastback.pw.toml"
 hash = "e4914685936668b58503aa685d970fb929ee5b74dccec730a61747b6857a32b6"
 metafile = true
@@ -933,4 +928,9 @@ metafile = true
 [[files]]
 file = "world/datapacks/recipes_pack.pw.toml"
 hash = "ddea3de9a80fcf284cdcfd4d73647c2fe34fae45cac9ef9098067964129d79bc"
+metafile = true
+
+[[files]]
+file = "world/datapacks/timber v2.1.6 (MC 1.20.x).pw.toml"
+hash = "897f06d70fcd04a9c6966533548049195b03df14457bca04919e4e03bde9ba24"
 metafile = true

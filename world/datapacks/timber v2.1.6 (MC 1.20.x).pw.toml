@@ -1,0 +1,8 @@
+name = "Timber vanilla tweaks"
+filename = "timber v2.1.6 (MC 1.20.x).zip"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/jorge1b3/skyblock_mods/main/world/datapacks/timber v2.1.6 (MC 1.20.x).zip"
+hash-format = "sha256"
+hash = "173f1fa151cbec48d2ac5fac7b0ea96a3915c58a77c6ba9a56f07ce134c47830"
