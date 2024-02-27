@@ -1,18 +1,13 @@
 name = "[EMF] Entity Model Features"
-filename = "entity_model_features_fabric_1.20-0.2.11.jar"
+filename = "entity_model_features_fabric_1.20.1-1.2.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/nqu0vi2x/entity_model_features_fabric_1.20-0.2.11.jar"
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/n5YI6Zh6/entity_model_features_fabric_1.20.1-1.2.3.jar"
 hash-format = "sha1"
-hash = "c0481a39a05d484096fec589318e9dd545199416"
-
-[option]
-optional = true
-default = false
-description = "ñade soporte para modelos personalizados de optifine. Funciona especialmente bien con fresh animations"
+hash = "dd55d29c111bca139b034adc81bce95c979cc49e"
 
 [update]
 [update.modrinth]
 mod-id = "4I1XuqiY"
-version = "nqu0vi2x"
+version = "n5YI6Zh6"

@@ -1,16 +1,16 @@
 name = "skyblock"
 author = "Jorge"
-version = "1.0.0"
+version = "0.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0484452b2f43e1fdd49cc96127f7c2fbbb3c849877c791112082568f38c41619"
+hash = "5bbc0f51e2ea5f28705178e015f4d48cb9115b42e304b42df94fc3fb5392f201"
 
 [versions]
 minecraft = "1.20.1"
-quilt = "0.19.1"
+quilt = "0.24.0-beta.8"
 
 [options]
-acceptable-game-versions = ["1.20", "1.20.0", "1.20.1"]
+acceptable-game-versions = ["1.20", "1.20.1"]

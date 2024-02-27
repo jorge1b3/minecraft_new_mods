@@ -1,18 +1,13 @@
 name = "Indium"
-filename = "indium-1.0.18+mc1.20.jar"
+filename = "indium-1.0.30+mc1.20.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/WTH3T2cR/indium-1.0.18%2Bmc1.20.jar"
+url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/Aouse6P7/indium-1.0.30%2Bmc1.20.4.jar"
 hash-format = "sha1"
-hash = "e4fe54f15bc82abdf667fc4658d3b3e7d4e02174"
-
-[option]
-optional = true
-default = true
-description = "Agrega compatibilidad entre sodium y otros mods. Solo es necesario si sodium está instalado"
+hash = "b24233f29c0ce4802c61ea8998e01e6e4580ae60"
 
 [update]
 [update.modrinth]
 mod-id = "Orvt0mRa"
-version = "WTH3T2cR"
+version = "Aouse6P7"

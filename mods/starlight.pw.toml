@@ -7,11 +7,6 @@ url = "https://cdn.modrinth.com/data/H8CaAYZC/versions/XGIsoVGT/starlight-1.1.2%
 hash-format = "sha1"
 hash = "a03102cab439cbab5a1d7d72cd7c2b4976ddd421"
 
-[option]
-optional = true
-default = true
-description = "Mejora el motor de iluminación de minecraft"
-
 [update]
 [update.modrinth]
 mod-id = "H8CaAYZC"

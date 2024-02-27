@@ -1,8 +1,0 @@
-name = "Recipes Pack"
-filename = "recipes_pack.zip"
-side = "server"
-
-[download]
-url = "https://raw.githubusercontent.com/jorge1b3/skyblock_mods/main/world/datapacks/recipes_pack.zip"
-hash-format = "sha256"
-hash = "b70e8841fa73135e342fb539d8d61fc4ea424f0c9400b6dd979e751fc623bd51"

@@ -1,18 +1,13 @@
-name = "nvidium"
-filename = "nvidium-0.1.13-alpha.jar"
+name = "Nvidium"
+filename = "nvidium-0.2.6-beta.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/SfMw2IZN/versions/WQjiwSwZ/nvidium-0.1.13-alpha.jar"
+url = "https://cdn.modrinth.com/data/SfMw2IZN/versions/J2fuM58R/nvidium-0.2.6-beta.jar"
 hash-format = "sha1"
-hash = "c37f805adc5a8c1007df6e2983965042674bfdb6"
-
-[option]
-optional = true
-default = false
-description = "Agrega varios métodos para mejorar la optimización entrajetas nvidia. Requiere sodium y es incompatible con iris"
+hash = "ce0c8504cfc397b53227119230e3ae5fdf851d42"
 
 [update]
 [update.modrinth]
 mod-id = "SfMw2IZN"
-version = "WQjiwSwZ"
+version = "J2fuM58R"

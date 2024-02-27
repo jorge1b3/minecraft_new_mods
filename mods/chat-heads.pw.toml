@@ -1,18 +1,13 @@
 name = "Chat Heads"
-filename = "chat_heads-0.10.16-fabric-1.20.jar"
+filename = "chat_heads-0.10.31-fabric-1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/5DNklSQc/chat_heads-0.10.16-fabric-1.20.jar"
+url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/68f3pu0P/chat_heads-0.10.31-fabric-1.20.jar"
 hash-format = "sha1"
-hash = "7cfe4582616798e33a98c23392edce5597febd55"
-
-[option]
-optional = true
-default = true
-description = "Muesta la cabeza en el chat de la persona que escribió el último mentaje"
+hash = "7eca61a04adf62afce0ad9d279fffbabcd90792c"
 
 [update]
 [update.modrinth]
 mod-id = "Wb5oqrBJ"
-version = "5DNklSQc"
+version = "68f3pu0P"

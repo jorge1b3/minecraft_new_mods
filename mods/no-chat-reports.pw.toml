@@ -7,11 +7,6 @@ url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/HeZZR2kF/NoChatReports-FA
 hash-format = "sha1"
 hash = "b99f23fb76aad5a944400717e6d71aa011c4d7f7"
 
-[option]
-optional = true
-default = true
-description = "Elimina el banner de «chat inseguro»"
-
 [update]
 [update.modrinth]
 mod-id = "qQyHxfxd"

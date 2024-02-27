@@ -7,11 +7,6 @@ url = "https://cdn.modrinth.com/data/OVuFYfre/versions/i3v1Skck/enhancedblockent
 hash-format = "sha1"
 hash = "61cfe50f69f8ef9e3640c0269ef158870f5b0410"
 
-[option]
-optional = true
-default = true
-description = "Mejora el renderizado de las entidades de bloque"
-
 [update]
 [update.modrinth]
 mod-id = "OVuFYfre"
