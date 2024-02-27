@@ -375,6 +375,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "a75d0637153874da30b8ef32d081e941fe8c8c6cd00cb832414c00dd0440da87"
+metafile = true
+
+[[files]]
 file = "mods/furnish-furniture.pw.toml"
 hash = "f420195cd1b9d8e6ccc8291a4ac71a2204668f442daca3f56bfe2b4701c57a83"
 metafile = true
