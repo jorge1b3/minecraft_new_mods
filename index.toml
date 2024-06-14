@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "fddce1cfc06ce7b3c5fc0cfa062fc57eadfd4ef4213ad561dc93d98b92d329d2"
+hash = "9f499eff7ddb9eeab719f19808cbcf41f2b77d06ebf946f157cf7b5f52f64e70"
 metafile = true
 
 [[files]]
@@ -878,9 +878,4 @@ metafile = true
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
 hash = "ee076e84e2052ccff9ac179298b241fb9f55d82fdef64f2c704d4b37254fe92f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/simple-voice-chat-dark-theme.pw.toml"
-hash = "88bf606c6f697e87847f881fc12275a9f3621dc9f6dfd44bbdb5c385d12b4e34"
 metafile = true
