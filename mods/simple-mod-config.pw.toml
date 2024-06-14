@@ -1,0 +1,13 @@
+name = "Simple Mod Config"
+filename = "simple-mod-config-1.20-fabric-0.0.3 .jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xtPYrzCS/versions/qLbN0VkK/simple-mod-config-1.20-fabric-0.0.3%20.jar"
+hash-format = "sha1"
+hash = "906fd4592a206868195247aaffa33223f57db278"
+
+[update]
+[update.modrinth]
+mod-id = "xtPYrzCS"
+version = "qLbN0VkK"

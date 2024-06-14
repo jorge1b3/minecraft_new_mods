@@ -1,16 +1,12 @@
-name = "skyblock"
-author = "Jorge"
-version = "0.1.0"
+name = "Minecraft New Mods"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "022c98b6c2f6d9e034a220f5782eddd9a28f525f23de1786027d58cb28f03020"
+hash = "1b4d360b0e75c5bd17cc9f1480adfadc90f614fc9a8312f644bf4a9e4b970c29"
 
 [versions]
 minecraft = "1.20.1"
-quilt = "0.23.1"
-
-[options]
-acceptable-game-versions = ["1.20", "1.20.1"]
+quilt = "0.26.0"

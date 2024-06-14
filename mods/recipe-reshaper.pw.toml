@@ -1,0 +1,13 @@
+name = "Recipe Reshaper"
+filename = "recipe-reshaper-1.1.4+MC1.20-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/GUwe3EsF/versions/qVyuRBgx/recipe-reshaper-1.1.4%2BMC1.20-1.20.1.jar"
+hash-format = "sha1"
+hash = "59963380ca2ca442f68b9d130cacc24c98f9c056"
+
+[update]
+[update.modrinth]
+mod-id = "GUwe3EsF"
+version = "qVyuRBgx"

@@ -1,0 +1,13 @@
+name = "Campfire Fix"
+filename = "campfirefix-fabric-1.20.1-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/6KdIlRiC/versions/2DA1RUXa/campfirefix-fabric-1.20.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "568ad3998fdce950f93aab143a8239e7cbcc4da2"
+
+[update]
+[update.modrinth]
+mod-id = "6KdIlRiC"
+version = "2DA1RUXa"
