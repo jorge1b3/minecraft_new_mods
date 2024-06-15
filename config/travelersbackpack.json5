@@ -1,11 +1,11 @@
 {
 	"backpackSettings": {
-		"enableTierUpgrades": false,
-		"disableCrafting": true,
+		"enableTierUpgrades": true,
+		"disableCrafting": false,
 		// Enables wearing backpack directly from ground
 		"enableBackpackBlockQuickEquip": true,
 		// Backpack immune to any damage source (lava, fire), can't be destroyed, never disappears as floating item
-		"invulnerableBackpack": false,
+		"invulnerableBackpack": true,
 		// List of items that can be put in tool slots (Use registry names, for example: minecraft:apple)
 		"toolSlotsAcceptableItems": [],
 		// List of items that can't be put in backpack inventory (Use registry names, for example: minecraft:apple)
@@ -32,7 +32,7 @@
 	},
 	"world": {
 		// Enables backpacks spawning in loot chests
-		"enableLoot": true,
+		"enableLoot": false,
 		// Enables chance to spawn Zombie, Skeleton, Wither Skeleton, Piglin or Enderman with random backpack equipped
 		"spawnEntitiesWithBackpack": true,
 		// List of overworld entity types that can spawn with equipped backpack. DO NOT ADD anything to this list, because the game will crash, remove entries if mob should not spawn with backpack
@@ -122,7 +122,6 @@
 			// Offsets to left side
 			"offsetX": 20,
 			// Offsets to up
-			"offsetY": 30
-		}
+			"offsetY": 3false}
 	}
 }
