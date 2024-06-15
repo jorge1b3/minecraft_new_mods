@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/2Uev7LdA/versions/Fhyj2P7Q/lambdabettergras
 hash-format = "sha1"
 hash = "4b3658f4dc69212768db703b7931f0d51a5c5568"
 
+[option]
+optional = true
+default = true
+
 [update]
 [update.modrinth]
 mod-id = "2Uev7LdA"

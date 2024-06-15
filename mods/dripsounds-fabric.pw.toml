@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/T8MMXTpr/versions/7GB1hLrr/DripSounds-1.19.
 hash-format = "sha1"
 hash = "0ec2a4722337bdcb668b6e37c43ec35bc2e0c617"
 
+[option]
+optional = true
+default = true
+
 [update]
 [update.modrinth]
 mod-id = "T8MMXTpr"

@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/9bUhbcJb/chat_heads-0.12.
 hash-format = "sha1"
 hash = "138f2a5fd6da115135edd5d5a800f34558789940"
 
+[option]
+optional = true
+default = true
+
 [update]
 [update.modrinth]
 mod-id = "Wb5oqrBJ"

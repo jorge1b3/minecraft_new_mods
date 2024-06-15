@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/AK9FBEgo/dynamic-fps-3.4.
 hash-format = "sha1"
 hash = "3559af7a9dad9efc44bc023b117a15be865eb636"
 
+[option]
+optional = true
+default = true
+
 [update]
 [update.modrinth]
 mod-id = "LQ3K71Q1"

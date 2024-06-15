@@ -378,6 +378,11 @@ hash = "2b9b5a34a6f3cb5796b4e9996fe1da41d7b063b2727743aeed6c8d350d7cdbb6"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+hash = "9820b8497ec0fdefcaa82801ca8ed125212d5f15957b139d81899b3baa88586e"
+metafile = true
+
+[[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "ee9bd23aea09a314966d57a211d84aa288e7803c4277c6996edac334eee77c58"
 metafile = true

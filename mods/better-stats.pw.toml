@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/n6PXGAoM/versions/L2ERNR7d/betterstats-3.9.
 hash-format = "sha1"
 hash = "3fd85b69c3c5d46b23a1aa9327cf7f197b51f6aa"
 
+[option]
+optional = true
+default = true
+
 [update]
 [update.modrinth]
 mod-id = "n6PXGAoM"

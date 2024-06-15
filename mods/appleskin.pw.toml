@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/xcauwnEB/appleskin-fabric
 hash-format = "sha1"
 hash = "d0f11243f79c071416bbcee781ae93eb57a0283c"
 
+[option]
+optional = true
+default = true
+
 [update]
 [update.modrinth]
 mod-id = "EsAfCjCV"

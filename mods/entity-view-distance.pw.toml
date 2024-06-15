@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/ihnBJ6on/versions/piYJfUyC/entity-view-dist
 hash-format = "sha1"
 hash = "2e622aefb07caef0686c0a4c36952521edbd840a"
 
+[option]
+optional = true
+default = true
+
 [update]
 [update.modrinth]
 mod-id = "ihnBJ6on"

@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/ChscgScW/versions/iydhDlXR/easiervillagertr
 hash-format = "sha1"
 hash = "93283fb514c5307ae1bc1fdbdb7d1666017609cb"
 
+[option]
+optional = true
+default = true
+
 [update]
 [update.modrinth]
 mod-id = "ChscgScW"

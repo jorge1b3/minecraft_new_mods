@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/9NM0dXub/versions/NaXd1ujM/AdvancementPlaqu
 hash-format = "sha1"
 hash = "43b1210a1441e6579a1c1382f46bf445bb945d98"
 
+[option]
+optional = true
+default = true
+
 [update]
 [update.modrinth]
 mod-id = "9NM0dXub"

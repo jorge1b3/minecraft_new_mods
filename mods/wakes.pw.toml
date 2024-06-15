@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/dlNu0RQY/versions/VOHf7p4D/wakes-0.2.4%2B1.
 hash-format = "sha1"
 hash = "32f620bd5a4a5e0bc99c73766d8985e1c455747a"
 
+[option]
+optional = true
+default = true
+
 [update]
 [update.modrinth]
 mod-id = "dlNu0RQY"

@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/re9m40O9/Jade-1.20-fabric
 hash-format = "sha1"
 hash = "7ce9f9002e831e089d2bba8ed5fe1780bd927e76"
 
+[option]
+optional = true
+default = true
+
 [update]
 [update.modrinth]
 mod-id = "nvQzSEkH"

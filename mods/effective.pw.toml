@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/pcPXJeZi/versions/NdCA6GGy/effective-2.2.1%
 hash-format = "sha1"
 hash = "4380abbae91bdd0546b1e6d400c39e8e2061095b"
 
+[option]
+optional = true
+default = true
+
 [update]
 [update.modrinth]
 mod-id = "pcPXJeZi"

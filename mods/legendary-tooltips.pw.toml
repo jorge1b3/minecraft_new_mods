@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/atHH8NyV/versions/fvJtXL6i/LegendaryTooltip
 hash-format = "sha1"
 hash = "64170c3a1b42b8f8c430d4f2400644f8131a47a1"
 
+[option]
+optional = true
+default = true
+
 [update]
 [update.modrinth]
 mod-id = "atHH8NyV"
