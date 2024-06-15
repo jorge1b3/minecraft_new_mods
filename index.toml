@@ -276,11 +276,6 @@ hash = "c3c0934476bb1a8438b382b7ba9c32d1be0c97cb10b38d7494a60c518d99d0a7"
 metafile = true
 
 [[files]]
-file = "mods/betteraddserver.pw.toml"
-hash = "6d8cf02db7792bebdb432920869e2df56dea787ea96d75dfed66d97bf7aec454"
-metafile = true
-
-[[files]]
 file = "mods/betterend.pw.toml"
 hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
 metafile = true
@@ -331,11 +326,6 @@ hash = "a49e9f505dbbefaf8382c797b883173fd16b33f331ebda64fff0c6e465c3127b"
 metafile = true
 
 [[files]]
-file = "mods/chefs-delight.pw.toml"
-hash = "9c165d9011d59231aedd5ae90da51ffddc8a3e9ec77779a0050d400b097633f4"
-metafile = true
-
-[[files]]
 file = "mods/chicken-nerf.pw.toml"
 hash = "59d580a3656685d3a1231b8c0ff23c0f8c917352342d9ec9c77c7978a2aa3dcd"
 metafile = true
@@ -358,11 +348,6 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "a704bc3997d75ffc2cac8311ef97f6336fcae75f6c82242d8a36fc15a2641c56"
-metafile = true
-
-[[files]]
-file = "mods/combat-roll.pw.toml"
-hash = "72a3735d583544a0d2ceb43b43426d4cda9bf099097216e9824f12272a973025"
 metafile = true
 
 [[files]]
@@ -403,11 +388,6 @@ metafile = true
 [[files]]
 file = "mods/ctov-create-structures.pw.toml"
 hash = "ced88c2b170469d097b3fad5204b5fe29445f99d639d91afbd07f1d0e424b424"
-metafile = true
-
-[[files]]
-file = "mods/ctov-farmers-delight-compat.pw.toml"
-hash = "c163559322c64b37c02074f0774da6de8a5a2c6dd6f5cd7b51775596769268e1"
 metafile = true
 
 [[files]]
@@ -493,11 +473,6 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "948e8a5d65ede4a8612a2f476d7b3b0f2fe00436ab3b8dd73829d4bdcf0cdf22"
-metafile = true
-
-[[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "72cc5d492b49c72c87da9629cd51e7240abae422784fef925872a0d4187c4932"
 metafile = true
 
 [[files]]
@@ -616,11 +591,6 @@ hash = "ac2ca5caef9ddb4fd53c035bfaf07026f12bcdb162d19c2fa473bdec8fbec630"
 metafile = true
 
 [[files]]
-file = "mods/map-atlases.pw.toml"
-hash = "6bdcc4657a59339b1849d1a4757aa551394fe6effc3b602b46f4ddc6933bea85"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
@@ -676,11 +646,6 @@ hash = "331450a351fe3099c8bb4522c63d5a2ab063aad3ec29328d9cb7ec40a0a74f44"
 metafile = true
 
 [[files]]
-file = "mods/oceans-delight.pw.toml"
-hash = "5167fe4155561b257e45ca43382ca6f66858d5bf5eefead2ed834854772ef8a9"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
@@ -733,11 +698,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
-metafile = true
-
-[[files]]
-file = "mods/seamless.pw.toml"
-hash = "57b79e4536cf3d60e5b4cc43ac7603c3ccb2e8481a2dcba93d74378822409b0d"
 metafile = true
 
 [[files]]
