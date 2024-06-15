@@ -251,11 +251,6 @@ hash = "3aae1e3ccee1651be703edadcd0594288c8b202b4777687f8e0a7095e28ef07a"
 metafile = true
 
 [[files]]
-file = "mods/better-harvesting.pw.toml"
-hash = "9d03ab1c6e8de2ac89b881c9379110fc97400dbfaaba0b86f2b2d2e9e16ffaae"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
