@@ -426,11 +426,6 @@ hash = "6992619452254eac894dbaaaff722c4dfa3d3576405f1b3c4d9782fe98aaf7e1"
 metafile = true
 
 [[files]]
-file = "mods/dropz.pw.toml"
-hash = "b74695a7c1e6fecc4e458fac8662b907719a28e448c26cf4b5fc669def2db05e"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "b7a7971c44fd891674222a48df8999e379b8658d96ab9b3cf55c17c0b00bd1ce"
 metafile = true
@@ -718,11 +713,6 @@ metafile = true
 [[files]]
 file = "mods/rain.pw.toml"
 hash = "9e1771882f74438f7dcf4fa24b208579d4f7a3fbdf4e4448484f4923ce367016"
-metafile = true
-
-[[files]]
-file = "mods/rayon.pw.toml"
-hash = "c0c0f81a86531c298fb11604dc6fc8877b5bebec4415a8684962abb5d1724099"
 metafile = true
 
 [[files]]
