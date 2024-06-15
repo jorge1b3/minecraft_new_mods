@@ -301,11 +301,6 @@ hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
 metafile = true
 
 [[files]]
-file = "mods/bundle-jumble.pw.toml"
-hash = "e4a33d11e609ee039d40d664b44a12b5d982699e53d2f7daac50b3ab1a4afb45"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
 metafile = true
@@ -823,11 +818,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "086f56d0a3c8f1a7b289b9949d7de08362f717295d89f0db0d13421ec860a453"
-metafile = true
-
-[[files]]
-file = "mods/where-is-it.pw.toml"
-hash = "75a1c2c05ad810ae2d7c052ae1f6b688bb1cd899dca228e9d2c5e682b3613b54"
 metafile = true
 
 [[files]]
