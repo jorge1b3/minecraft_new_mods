@@ -286,8 +286,23 @@ hash = "d1a9663f1984c580facd4f217dc45ef1df0030776c0c773e03b573469405e052"
 metafile = true
 
 [[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "1f8282011aff9b7dd11cf2568f85ee72635b7927d79b423aa38494d0733eac67"
+metafile = true
+
+[[files]]
+file = "mods/blossomtpa.pw.toml"
+hash = "e6702c94b6ac5ce552b91db8319b9075bd7ea1c74baab7987b8ad9fc51055b4d"
+metafile = true
+
+[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
+metafile = true
+
+[[files]]
+file = "mods/bottled-air.pw.toml"
+hash = "8d94e61416bf9d87dea5755f9ba180eef61b33a408a7d2816dbadd350f96bec5"
 metafile = true
 
 [[files]]
@@ -411,6 +426,11 @@ hash = "6992619452254eac894dbaaaff722c4dfa3d3576405f1b3c4d9782fe98aaf7e1"
 metafile = true
 
 [[files]]
+file = "mods/dropz.pw.toml"
+hash = "b74695a7c1e6fecc4e458fac8662b907719a28e448c26cf4b5fc669def2db05e"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "b7a7971c44fd891674222a48df8999e379b8658d96ab9b3cf55c17c0b00bd1ce"
 metafile = true
@@ -472,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "948e8a5d65ede4a8612a2f476d7b3b0f2fe00436ab3b8dd73829d4bdcf0cdf22"
+hash = "931a815e5c4de23a6acff18fd192780da50d6cc4fe81fd6c03d6c210997def98"
 metafile = true
 
 [[files]]
@@ -511,6 +531,11 @@ hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
 metafile = true
 
 [[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "71086f8974cad24543cd48f83a0f09b5a8bde7fa401c1e71f98e82a0f96a1308"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "fc8ae39ef4edbdb8e23ec91a10d1ef42c0fc569b5c8d633d7c584bfd55daa8bc"
 metafile = true
@@ -528,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "d24bd05367fb73abe1e50347adc64ebe360b8f19019f37aeb991b9b722fe95a1"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "97e571c0d78f5d05afb5f90ddca30eda76fcac1cdcae0f4392eab15563689ae2"
 metafile = true
 
 [[files]]
@@ -636,8 +666,18 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "c737bdfd6940736f88cd39065a0193ba70637a560fbce4389e59f67d72813209"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "ba199efc001f3775fb79b4ee3e99c2f7f5a91d0bd1f40864fd385ca932dafbda"
 metafile = true
 
 [[files]]
@@ -678,6 +718,11 @@ metafile = true
 [[files]]
 file = "mods/rain.pw.toml"
 hash = "9e1771882f74438f7dcf4fa24b208579d4f7a3fbdf4e4448484f4923ce367016"
+metafile = true
+
+[[files]]
+file = "mods/rayon.pw.toml"
+hash = "c0c0f81a86531c298fb11604dc6fc8877b5bebec4415a8684962abb5d1724099"
 metafile = true
 
 [[files]]
@@ -741,8 +786,18 @@ hash = "3b4c84225b3025c7b16e3a9634afd13bac4f1f8dd3091600cd020cb31d27fc93"
 metafile = true
 
 [[files]]
+file = "mods/talkbubbles.pw.toml"
+hash = "5956607e8d1d115911e16b8f074b85340f974779c72a10b348a7211ba94d8fa9"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "78264cc5097e26b3c5b34fd1b01754182b4543602ea99079a5d3fa4e69a7e579"
+metafile = true
+
+[[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
 metafile = true
 
 [[files]]
@@ -753,6 +808,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "64254c688cb5b7e22ef17a129f9b7469899e14a322580e2a7988f4e5b75397f2"
 metafile = true
 
 [[files]]
