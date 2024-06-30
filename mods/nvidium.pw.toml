@@ -12,7 +12,3 @@ optional = true
 default = false
 description = "Enables the use of Nvidium mod to improve performance on Nvidia GPUs." 
 
-[update]
-[update.modrinth]
-mod-id = "SfMw2IZN"
-version = "J2fuM58R"
