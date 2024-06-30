@@ -424,8 +424,13 @@ hash = "71086f8974cad24543cd48f83a0f09b5a8bde7fa401c1e71f98e82a0f96a1308"
 metafile = true
 
 [[files]]
+file = "mods/indium-nvidium.pw.toml"
+hash = "d2b76771e662e924db1a87e222a0f83f0c7743fa70b66e15844782db7feb880d"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
-hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
+hash = "6dd28fb1b99ee569edc57f1cabcbee5411a81caaf1a44386f50606e348270054"
 metafile = true
 
 [[files]]
@@ -570,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "ba199efc001f3775fb79b4ee3e99c2f7f5a91d0bd1f40864fd385ca932dafbda"
+hash = "9c77392e69c1630544f340463aea30b26ae2467283ef6747b5265182a6f5c6e5"
 metafile = true
 
 [[files]]
@@ -649,8 +654,13 @@ hash = "36cc2a30ad3c69ca669f509069790a8785e75fbefc842f27a6347a8ef65c2ef4"
 metafile = true
 
 [[files]]
+file = "mods/sodium-nvidium.pw.toml"
+hash = "0e923c1c87f423ef5d5b8d5c052463c692933987c7b63dd2f32b9ebf77a1a846"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
-hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
+hash = "8134e9619c95b60477b6289db480ee75b56d8e852adbe974724636b1152ff6b4"
 metafile = true
 
 [[files]]
